@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "cordova-android": "^9.1.0",
-    "cordova-plugin-hello-c": "git+https://github.com/rajohns08/cordova-plugin-hello-c.git",
+    "cordova-plugin-hello-c": "github:rajohns08/cordova-plugin-hello-c",
     "cordova-plugin-whitelist": "1"
   }
 }
