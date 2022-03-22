@@ -7,11 +7,13 @@
       "android"
     ],
     "plugins": {
-      "cordova-plugin-whitelist": {}
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-hello-c": {}
     }
   },
   "devDependencies": {
     "cordova-android": "^9.1.0",
+    "cordova-plugin-hello-c": "github:rajohns08/cordova-plugin-hello-c",
     "cordova-plugin-whitelist": "1"
   }
 }
